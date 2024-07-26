@@ -1,0 +1,360 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "src/images/Men1.jpg",
+        "brand": "estabrak",
+        "title": "Balto",
+        "color": "beige",
+        "discountedPrice": "780",
+        "price": "1050",
+        "discountPercent": "25",
+        "size": [
+            { "name": "S", "quantity": "20" },
+            { "name": "M", "quantity": "25" },
+            { "name": "L", "quantity": "30" }
+        ],
+        "quantity": "100",
+        "topLevelCategory": "Men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "shirts",
+        "description": "good clothing for men",
+        "rating": 4.9
+    },
+    {
+        "id": 2,
+        "imageUrl": "src/images/Men2.jpg",
+        "brand": "estabrak",
+        "title": "Black Jeans",
+        "color": "Black",
+        "discountedPrice": "480",
+        "price": "980",
+        "discountPercent": "49",
+        "size": [
+            { "name": "S", "quantity": "15" },
+            { "name": "M", "quantity": "20" },
+            { "name": "L", "quantity": "25" }
+        ],
+        "quantity": "90",
+        "topLevelCategory": "Men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "shirts",
+        "description": "high-quality men's shirt",
+        "rating": 4.2
+    },
+    {
+        "id": 3,
+        "imageUrl": "src/images/Men3.jpg",
+        "brand": "estabrak",
+        "title": "man t-shirt",
+        "color": "black",
+        "discountedPrice": "260",
+        "price": "820",
+        "discountPercent": "70",
+        "size": [
+            { "name": "S", "quantity": "18" },
+            { "name": "M", "quantity": "22" },
+            { "name": "L", "quantity": "28" }
+        ],
+        "quantity": "95",
+        "topLevelCategory": "Men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "t-shirts",
+        "description": "comfortable t-shirt for men",
+        "rating": 4.6
+    },
+    {
+        "id": 4,
+        "imageUrl": "src/images/Men4.jpg",
+        "brand": "estabrak",
+        "title": "man jeans",
+        "color": "blue",
+        "discountedPrice": "700",
+        "price": "1300",
+        "discountPercent": "45",
+        "size": [
+            { "name": "S", "quantity": "10" },
+            { "name": "M", "quantity": "15" },
+            { "name": "L", "quantity": "20" }
+        ],
+        "quantity": "45",
+        "topLevelCategory": "Men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jeans",
+        "description": "stylish jeans for men",
+        "rating": 4.3
+    },
+    {
+        "id": 5,
+        "imageUrl": "src/images/women1.jpg",
+        "brand": "estabrak",
+        "title": "woman dress",
+        "color": "red",
+        "discountedPrice": "820",
+        "price": "1100",
+        "discountPercent": "25",
+        "size": [
+            { "name": "S", "quantity": "10" },
+            { "name": "M", "quantity": "12" },
+            { "name": "L", "quantity": "15" }
+        ],
+        "quantity": "37",
+        "topLevelCategory": "Women",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "dresses",
+        "description": "beautiful dress for women",
+        "rating": 4.1
+    },
+    {
+        "id": 6,
+        "imageUrl": "src/images/women2.jpg",
+        "brand": "estabrak",
+        "title": "woman Streetwear",
+        "color": "white",
+        "discountedPrice": "375",
+        "price": "750",
+        "discountPercent": "50",
+        "size": [
+            { "name": "S", "quantity": "8" },
+            { "name": "M", "quantity": "10" },
+            { "name": "L", "quantity": "12" }
+        ],
+        "quantity": "30",
+        "topLevelCategory": "Women",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "blouses",
+        "description": "elegant blouse for women",
+        "rating": 4.5
+    },
+    {
+        "id": 7,
+        "imageUrl": "src/images/women3.jpg",
+        "brand": "estabrak",
+        "title": "woman prayer wear",
+        "color": "black",
+        "discountedPrice": "617",
+        "price": "950",
+        "discountPercent": "35",
+        "size": [
+            { "name": "S", "quantity": "7" },
+            { "name": "M", "quantity": "9" },
+            { "name": "L", "quantity": "11" }
+        ],
+        "quantity": "27",
+        "topLevelCategory": "Women",
+        "secondLevelCategory": "footwear",
+        "thirdLevelCategory": "shoes",
+        "description": "stylish shoes for women",
+        "rating": 4.2
+    },
+    {
+        "id": 8,
+        "imageUrl": "src/images/women4.jpg",
+        "brand": "estabrak",
+        "title": "woman home",
+        "color": "black",
+        "discountedPrice": "510",
+        "price": "850",
+        "discountPercent": "40",
+        "size": [
+            { "name": "S", "quantity": "7" },
+            { "name": "M", "quantity": "9" },
+            { "name": "L", "quantity": "11" }
+        ],
+        "quantity": "27",
+        "topLevelCategory": "Women",
+        "secondLevelCategory": "footwear",
+        "thirdLevelCategory": "shoes",
+        "description": "stylish shoes for women",
+        "rating": 4.8
+    },
+    {
+        "id": 9,
+        "imageUrl": "src/images/kids1.jpeg",
+        "brand": "estabrak",
+        "title": "kids outfits",
+        "color": "black & white",
+        "discountedPrice": "280",
+        "price": "700",
+        "discountPercent": "60",
+        "size": [
+            { "name": "S", "quantity": "15" },
+            { "name": "M", "quantity": "20" },
+            { "name": "L", "quantity": "25" }
+        ],
+        "quantity": "60",
+        "topLevelCategory": "Kids",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "t-shirts",
+        "description": "cute t-shirt for kids",
+        "rating": 4.5
+    },
+    {
+        "id": 10,
+        "imageUrl": "src/images/kids6.jpg",
+        "brand": "estabrak",
+        "title": "kids Casual Wear",
+        "color": "pink",
+        "discountedPrice": "396",
+        "price": "720",
+        "discountPercent": "45",
+        "size": [
+            { "name": "S", "quantity": "10" },
+            { "name": "M", "quantity": "12" },
+            { "name": "L", "quantity": "15" }
+        ],
+        "quantity": "37",
+        "topLevelCategory": "Kids",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "dresses",
+        "description": "adorable dress for kids",
+        "rating": 4.7
+    },
+    {
+        "id": 11,
+        "imageUrl": "src/images/kids3.jpg",
+        "brand": "estabrak",
+        "title": "kids home",
+        "color": "blue",
+        "discountedPrice": "280",
+        "price": "700",
+        "discountPercent": "60",
+        "size": [
+            { "name": "S", "quantity": "15" },
+            { "name": "M", "quantity": "20" },
+            { "name": "L", "quantity": "25" }
+        ],
+        "quantity": "60",
+        "topLevelCategory": "Kids",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "t-shirts",
+        "description": "cute t-shirt for kids",
+        "rating": 4.5
+    },
+    {
+        "id": 12,
+        "imageUrl": "src/images/kids2.jpg",
+        "brand": "estabrak",
+        "title": "summer dress for kids",
+        "color": "pink",
+        "discountedPrice": "397",
+        "price": "750",
+        "discountPercent": "47",
+        "size": [
+            { "name": "S", "quantity": "10" },
+            { "name": "M", "quantity": "12" },
+            { "name": "L", "quantity": "15" }
+        ],
+        "quantity": "37",
+        "topLevelCategory": "Kids",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "dresses",
+        "description": "adorable dress for kids",
+        "rating": 4.3
+    },
+    {
+        "id": 13,
+        "imageUrl": "src/images/kids5.jpg",
+        "brand": "estabrak",
+        "title": "kids sports Wear",
+        "color": "blue",
+        "discountedPrice": "280",
+        "price": "700",
+        "discountPercent": "60",
+        "size": [
+            { "name": "S", "quantity": "15" },
+            { "name": "M", "quantity": "20" },
+            { "name": "L", "quantity": "25" }
+        ],
+        "quantity": "60",
+        "topLevelCategory": "Kids",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "t-shirts",
+        "description": "cute t-shirt for kids",
+        "rating": 4.5
+    },
+    {
+        "id": 14,
+        "imageUrl": "src/images/kids4.jpg",
+        "brand": "estabrak",
+        "title": "winter fashion for kids",
+        "color": "pink",
+        "discountedPrice": "396",
+        "price": "720",
+        "discountPercent": "45",
+        "size": [
+            { "name": "S", "quantity": "10" },
+            { "name": "M", "quantity": "12" },
+            { "name": "L", "quantity": "15" }
+        ],
+        "quantity": "37",
+        "topLevelCategory": "Kids",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "dresses",
+        "description": "adorable dress for kids",
+        "rating": 4.7
+    },
+    {
+        "id": 15,
+        "imageUrl": "src/images/Men5.jpg",
+        "brand": "estabrak",
+        "title": "Skarf",
+        "color": "blue",
+        "discountedPrice": "750",
+        "price": "1200",
+        "discountPercent": "38",
+        "size": [
+            { "name": "S", "quantity": "10" },
+            { "name": "M", "quantity": "15" },
+            { "name": "L", "quantity": "20" }
+        ],
+        "quantity": "45",
+        "topLevelCategory": "Men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jeans",
+        "description": "stylish jeans for men",
+        "rating": 4.1
+    },
+    {
+        "id": 16,
+        "imageUrl": "src/images/Men6.jpg",
+        "brand": "estabrak",
+        "title": "CR7 original",
+        "color": "blue",
+        "discountedPrice": "700",
+        "price": "1300",
+        "discountPercent": "45",
+        "size": [
+            { "name": "S", "quantity": "10" },
+            { "name": "M", "quantity": "15" },
+            { "name": "L", "quantity": "20" }
+        ],
+        "quantity": "45",
+        "topLevelCategory": "Men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jeans",
+        "description": "stylish jeans for men",
+        "rating": 4.3
+    },
+    {
+        "id": 17,
+        "imageUrl": "src/images/Men7.jpg",
+        "brand": "estabrak",
+        "title": "sports shoes",
+        "color": "blue",
+        "discountedPrice": "720",
+        "price": "1250",
+        "discountPercent": "42",
+        "size": [
+            { "name": "S", "quantity": "10" },
+            { "name": "M", "quantity": "15" },
+            { "name": "L", "quantity": "20" }
+        ],
+        "quantity": "45",
+        "topLevelCategory": "Men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jeans",
+        "description": "stylish jeans for men",
+        "rating": 4.4
+    }
+  ]
+  

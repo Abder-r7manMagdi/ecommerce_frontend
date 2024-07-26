@@ -1,0 +1,322 @@
+[
+  {
+    "orderId": 1,
+    "customerId": 1,
+    "products": [
+      {
+        "id": 1,
+        "title": "Balto",
+        "quantity": 2,
+        "price": 1050,
+        "totalPrice": 2100
+      },
+      {
+        "id": 5,
+        "title": "Woman Dress",
+        "quantity": 1,
+        "price": 1100,
+        "totalPrice": 1100
+      }
+    ],
+    "orderDate": "2024-06-26T12:00:00Z",
+    "shipTo": {
+      "firstName": "Ahmed",
+      "lastName": "Mohamed",
+      "streetAddress": "123 Main Street",
+      "city": "Cairo",
+      "state": "Cairo",
+      "zipCode": "12345",
+      "mobile": "1234567890"
+    },
+    "paymentMethod": "Credit Card",
+    "totalAmount": 3200
+  },
+  {
+    "orderId": 2,
+    "customerId": 2,
+    "products": [
+      {
+        "id": 3,
+        "title": "Man T-Shirt",
+        "quantity": 3,
+        "price": 820,
+        "totalPrice": 2460
+      },
+      {
+        "id": 6,
+        "title": "Woman Streetwear",
+        "quantity": 1,
+        "price": 750,
+        "totalPrice": 750
+      }
+    ],
+    "orderDate": "2024-06-26T12:30:00Z",
+    "shipTo": {
+      "firstName": "Fatima",
+      "lastName": "Ali",
+      "streetAddress": "456 Elm Street",
+      "city": "Alexandria",
+      "state": "Alexandria",
+      "zipCode": "54321",
+      "mobile": "0987654321"
+    },
+    "paymentMethod": "PayPal",
+    "totalAmount": 3210
+  },
+  {
+    "orderId": 3,
+    "customerId": 3,
+    "products": [
+      {
+        "id": 2,
+        "title": "Kids Toy Car",
+        "quantity": 1,
+        "price": 300,
+        "totalPrice": 300
+      },
+      {
+        "id": 4,
+        "title": "Smartphone",
+        "quantity": 1,
+        "price": 800,
+        "totalPrice": 800
+      }
+    ],
+    "orderDate": "2024-06-27T08:45:00Z",
+    "shipTo": {
+      "firstName": "Omar",
+      "lastName": "Said",
+      "streetAddress": "789 Oak Street",
+      "city": "Giza",
+      "state": "Giza",
+      "zipCode": "67890",
+      "mobile": "1122334455"
+    },
+    "paymentMethod": "Debit Card",
+    "totalAmount": 1100
+  },
+  {
+    "orderId": 4,
+    "customerId": 4,
+    "products": [
+      {
+        "id": 7,
+        "title": "Gaming Laptop",
+        "quantity": 1,
+        "price": 1200,
+        "totalPrice": 1200
+      },
+      {
+        "id": 8,
+        "title": "Headphones",
+        "quantity": 2,
+        "price": 150,
+        "totalPrice": 300
+      }
+    ],
+    "orderDate": "2024-06-27T09:00:00Z",
+    "shipTo": {
+      "firstName": "Layla",
+      "lastName": "Kamel",
+      "streetAddress": "321 Pine Street",
+      "city": "Luxor",
+      "state": "Luxor",
+      "zipCode": "98765",
+      "mobile": "5544332211"
+    },
+    "paymentMethod": "Cash on Delivery",
+    "totalAmount": 1500
+  },
+  {
+    "orderId": 5,
+    "customerId": 5,
+    "products": [
+      {
+        "id": 9,
+        "title": "Office Chair",
+        "quantity": 1,
+        "price": 250,
+        "totalPrice": 250
+      },
+      {
+        "id": 10,
+        "title": "Desk Lamp",
+        "quantity": 1,
+        "price": 50,
+        "totalPrice": 50
+      }
+    ],
+    "orderDate": "2024-06-27T11:15:00Z",
+    "shipTo": {
+      "firstName": "Hassan",
+      "lastName": "Youssef",
+      "streetAddress": "654 Cedar Street",
+      "city": "Aswan",
+      "state": "Aswan",
+      "zipCode": "11223",
+      "mobile": "6677889900"
+    },
+    "paymentMethod": "Credit Card",
+    "totalAmount": 300
+  },
+  {
+    "orderId": 6,
+    "customerId": 6,
+    "products": [
+      {
+        "id": 11,
+        "title": "Wireless Mouse",
+        "quantity": 2,
+        "price": 40,
+        "totalPrice": 80
+      },
+      {
+        "id": 12,
+        "title": "Keyboard",
+        "quantity": 1,
+        "price": 70,
+        "totalPrice": 70
+      }
+    ],
+    "orderDate": "2024-06-27T14:00:00Z",
+    "shipTo": {
+      "firstName": "Nour",
+      "lastName": "Gamal",
+      "streetAddress": "987 Birch Street",
+      "city": "Suez",
+      "state": "Suez",
+      "zipCode": "33445",
+      "mobile": "9988776655"
+    },
+    "paymentMethod": "PayPal",
+    "totalAmount": 150
+  },
+  {
+    "orderId": 7,
+    "customerId": 7,
+    "products": [
+      {
+        "id": 13,
+        "title": "Coffee Maker",
+        "quantity": 1,
+        "price": 120,
+        "totalPrice": 120
+      },
+      {
+        "id": 14,
+        "title": "Blender",
+        "quantity": 1,
+        "price": 60,
+        "totalPrice": 60
+      }
+    ],
+    "orderDate": "2024-06-27T15:45:00Z",
+    "shipTo": {
+      "firstName": "Sara",
+      "lastName": "Mostafa",
+      "streetAddress": "111 Maple Street",
+      "city": "Port Said",
+      "state": "Port Said",
+      "zipCode": "55667",
+      "mobile": "7766554433"
+    },
+    "paymentMethod": "Credit Card",
+    "totalAmount": 180
+  },
+  {
+    "orderId": 8,
+    "customerId": 8,
+    "products": [
+      {
+        "id": 15,
+        "title": "Air Conditioner",
+        "quantity": 1,
+        "price": 500,
+        "totalPrice": 500
+      },
+      {
+        "id": 16,
+        "title": "Fan",
+        "quantity": 2,
+        "price": 40,
+        "totalPrice": 80
+      }
+    ],
+    "orderDate": "2024-06-27T17:30:00Z",
+    "shipTo": {
+      "firstName": "Karim",
+      "lastName": "Tarek",
+      "streetAddress": "222 Spruce Street",
+      "city": "Ismailia",
+      "state": "Ismailia",
+      "zipCode": "66889",
+      "mobile": "4455667788"
+    },
+    "paymentMethod": "Debit Card",
+    "totalAmount": 580
+  },
+  {
+    "orderId": 9,
+    "customerId": 9,
+    "products": [
+      {
+        "id": 17,
+        "title": "Sofa",
+        "quantity": 1,
+        "price": 700,
+        "totalPrice": 700
+      },
+      {
+        "id": 18,
+        "title": "Coffee Table",
+        "quantity": 1,
+        "price": 150,
+        "totalPrice": 150
+      }
+    ],
+    "orderDate": "2024-06-27T19:00:00Z",
+    "shipTo": {
+      "firstName": "Mona",
+      "lastName": "Ezzat",
+      "streetAddress": "333 Willow Street",
+      "city": "Mansoura",
+      "state": "Dakahlia",
+      "zipCode": "99876",
+      "mobile": "5544332211"
+    },
+    "paymentMethod": "Cash on Delivery",
+    "totalAmount": 850
+  },
+  {
+    "orderId": 10,
+    "customerId": 10,
+    "products": [
+      {
+        "id": 19,
+        "title": "Electric Kettle",
+        "quantity": 1,
+        "price": 30,
+        "totalPrice": 30
+      },
+      {
+        "id": 20,
+        "title": "Toaster",
+        "quantity": 1,
+        "price": 25,
+        "totalPrice": 25
+      }
+    ],
+    "orderDate": "2024-06-28T09:00:00Z",
+    "shipTo": {
+      "firstName": "Ali",
+      "lastName": "Hassan",
+      "streetAddress": "444 Chestnut Street",
+      "city": "Fayoum",
+      "state": "Fayoum",
+      "zipCode": "88765",
+      "mobile": "2233445566"
+    },
+    "paymentMethod": "Credit Card",
+    "totalAmount": 55
+  }
+]

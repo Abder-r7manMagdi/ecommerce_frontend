@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "src/images/Men1.jpg",
+        "brand": "estabrak",
+        "title": "Balto",
+        "color": "beige",
+        "discountedPrice": "780",
+        "price": "1050",
+        "discountPercent": "25",
+        "size": [
+            { "name": "S", "quantity": "20" },
+            { "name": "M", "quantity": "25" },
+            { "name": "L", "quantity": "30" }
+        ],
+        "quantity": "100",
+        "topLevelCategory": "Men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "shirts",
+        "description": "good clothing for men",
+        "rating": 4.9
+    },
+    {
+        "id": 3,
+        "imageUrl": "src/images/Men3.jpg",
+        "brand": "estabrak",
+        "title": "man t-shirt",
+        "color": "black",
+        "discountedPrice": "260",
+        "price": "820",
+        "discountPercent": "70",
+        "size": [
+            { "name": "S", "quantity": "18" },
+            { "name": "M", "quantity": "22" },
+            { "name": "L", "quantity": "28" }
+        ],
+        "quantity": "95",
+        "topLevelCategory": "Men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "t-shirts",
+        "description": "comfortable t-shirt for men",
+        "rating": 4.6
+    },
+    {
+        "id": 4,
+        "imageUrl": "src/images/Men4.jpg",
+        "brand": "estabrak",
+        "title": "man jeans",
+        "color": "blue",
+        "discountedPrice": "700",
+        "price": "1300",
+        "discountPercent": "45",
+        "size": [
+            { "name": "S", "quantity": "10" },
+            { "name": "M", "quantity": "15" },
+            { "name": "L", "quantity": "20" }
+        ],
+        "quantity": "45",
+        "topLevelCategory": "Men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jeans",
+        "description": "stylish jeans for men",
+        "rating": 4.3
+    },
+    {
+        "id": 15,
+        "imageUrl": "src/images/Men5.jpg",
+        "brand": "estabrak",
+        "title": "Skarf",
+        "color": "blue",
+        "discountedPrice": "750",
+        "price": "1200",
+        "discountPercent": "38",
+        "size": [
+            { "name": "S", "quantity": "10" },
+            { "name": "M", "quantity": "15" },
+            { "name": "L", "quantity": "20" }
+        ],
+        "quantity": "45",
+        "topLevelCategory": "Men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jeans",
+        "description": "stylish jeans for men",
+        "rating": 4.1
+    },
+    {
+        "id": 16,
+        "imageUrl": "src/images/Men6.jpg",
+        "brand": "estabrak",
+        "title": "CR7 original",
+        "color": "blue",
+        "discountedPrice": "700",
+        "price": "1300",
+        "discountPercent": "45",
+        "size": [
+            { "name": "S", "quantity": "10" },
+            { "name": "M", "quantity": "15" },
+            { "name": "L", "quantity": "20" }
+        ],
+        "quantity": "45",
+        "topLevelCategory": "Men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jeans",
+        "description": "stylish jeans for men",
+        "rating": 4.3
+    }
+]

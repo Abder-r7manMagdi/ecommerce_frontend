@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "src/images/Men1.jpg",
+        "brand": "estabrak",
+        "title": "Balto",
+        "color": "beige",
+        "discountedPrice": "780",
+        "price": "1050",
+        "discountPercent": "25",
+        "size": [
+            { "name": "S", "quantity": "20" },
+            { "name": "M", "quantity": "25" },
+            { "name": "L", "quantity": "30" }
+        ],
+        "quantity": "100",
+        "topLevelCategory": "Men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "shirts",
+        "description": "good clothing for men",
+        "rating": 4.9,
+        "numberOfDeals": "High"
+    },
+    {
+        "id": 2,
+        "imageUrl": "src/images/Men2.jpg",
+        "brand": "estabrak",
+        "title": "Black Jeans",
+        "color": "Black",
+        "discountedPrice": "480",
+        "price": "980",
+        "discountPercent": "49",
+        "size": [
+            { "name": "S", "quantity": "15" },
+            { "name": "M", "quantity": "20" },
+            { "name": "L", "quantity": "25" }
+        ],
+        "quantity": "90",
+        "topLevelCategory": "Men",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "jeans",
+        "description": "high-quality men's jeans",
+        "rating": 4.2,
+        "numberOfDeals": "High"
+    },
+    {
+        "id": 3,
+        "imageUrl": "src/images/Women1.jpg",
+        "brand": "estabrak",
+        "title": "Woman Dress",
+        "color": "Red",
+        "discountedPrice": "820",
+        "price": "1100",
+        "discountPercent": "25",
+        "size": [
+            { "name": "S", "quantity": "10" },
+            { "name": "M", "quantity": "12" },
+            { "name": "L", "quantity": "15" }
+        ],
+        "quantity": "37",
+        "topLevelCategory": "Women",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "dresses",
+        "description": "beautiful dress for women",
+        "rating": 4.1,
+        "numberOfDeals": "Medium"
+    },
+    {
+        "id": 4,
+        "imageUrl": "src/images/Women2.jpg",
+        "brand": "estabrak",
+        "title": "Woman Streetwear",
+        "color": "White",
+        "discountedPrice": "375",
+        "price": "750",
+        "discountPercent": "50",
+        "size": [
+            { "name": "S", "quantity": "8" },
+            { "name": "M", "quantity": "10" },
+            { "name": "L", "quantity": "12" }
+        ],
+        "quantity": "30",
+        "topLevelCategory": "Women",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "blouses",
+        "description": "elegant blouse for women",
+        "rating": 4.5,
+        "numberOfDeals": "High"
+    },
+    {
+        "id": 5,
+        "imageUrl": "../images/kids1.jpeg",
+        "brand": "estabrak",
+        "title": "Kids Outfits",
+        "color": "Black & White",
+        "discountedPrice": "280",
+        "price": "700",
+        "discountPercent": "60",
+        "size": [
+            { "name": "S", "quantity": "15" },
+            { "name": "M", "quantity": "20" },
+            { "name": "L", "quantity": "25" }
+        ],
+        "quantity": "60",
+        "topLevelCategory": "Kids",
+        "secondLevelCategory": "clothing",
+        "thirdLevelCategory": "t-shirts",
+        "description": "cute t-shirt for kids",
+        "rating": 4.5,
+        "numberOfDeals": "High"
+    }
+]
